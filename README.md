@@ -10,4 +10,4 @@ Created as a final project for *CS 4780: Introduction to Machine Learning* taugh
 
 See `ElectionPrediction.ipynb` for the jupyter notebook in which this prediction was performed.
 
-See `Instructions.pdf` for a PDF of the instructions given for this assignment.
+See `CS 4780 Final Project Description.pdf` for a PDF of the instructions given for this assignment.
